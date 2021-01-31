@@ -12,7 +12,7 @@
 
 ## 🏁 About <a name = "about"></a>
 
-- This project is about a API for message sending purposes developed in Javascript only, with: Node,Typescript, DDD and TDD pattern.
+- This project is about a API for message sending purposes developed in Javascript only, with: Node,Typescript, DDD and TDD patterns.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com/) installed on your computer.
